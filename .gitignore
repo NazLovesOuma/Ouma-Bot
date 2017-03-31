@@ -1,0 +1,14 @@
+[Essential, add these or you'll get fucked]
+Const.java
+bin
+*.jar
+
+[Optional, just removing a bit of clutter we don't need to upload]
+.gradle
+.classpath
+.project
+.settings
+gradlew.bat
+gradlew
+gradle
+settings.gradle
